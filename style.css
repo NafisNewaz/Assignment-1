@@ -1,0 +1,124 @@
+body{
+    margin: 0%;
+    font-family:Tahoma ;
+}
+section
+{
+    height: 500px;
+    margin-bottom: 120px;
+}
+.green-color{
+    color:  #1d523e;
+}
+
+.half-segment{
+    width: 42%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+
+}
+.half-segment img{
+    width: 100%;
+}
+
+.button-design{
+    text-decoration: none;
+    
+    background-color: #1d523e;
+    padding:10px 15px;
+    color:whitesmoke;
+}
+.background-color{
+    background-color
+}
+
+.image-box{
+    float: left;
+    margin-left:4%;
+    padding-left: 2%;
+    box-shadow: 10px 20px 50px gray;  
+    border-radius: 20px;
+    height: 400px;
+    width: 350px;
+    color: gray;
+}
+.image-box img{
+    width: 100%;
+    position: relative;
+   top:5%;
+   right:3.5%;
+
+}
+h2{
+    
+   color:black;
+}
+
+.experience-box{
+    float: left;
+    margin-left:2.5%;
+    padding-left: 2%;
+    box-shadow: 10px 20px 70px gray;  
+    border-radius: 20px;
+    height: 290px;
+    width: 360px;
+    color: gray;
+}
+
+.background-design{
+  background-color: rgb(230, 230, 230);
+}
+#side-color-1{
+    border: 10px solid ;
+    border-image: linear-gradient(270deg,rgb(154, 207, 154),rgb(4,51,4));
+    border-image-slice: 2;
+ }
+
+ #side-color-2{
+    border: 10px solid ;
+    border-image: linear-gradient(360deg,rgb(154, 207, 154),rgb(4,51,4));
+    border-image-slice: 2;
+ } 
+
+ #side-color-3{
+    border: 10px solid ;
+    border-image: linear-gradient(90deg,rgb(154, 207, 154),rgb(4,51,4));
+    border-image-slice: 2;
+ } 
+
+#banner-design{
+    background-image: url("./images/Group_33094_1.png");
+    background-repeat: no-repeat;
+ background-position: center;
+ background-size:70% 40%;
+}
+
+
+.work-design{
+  width:30%;
+  float: left;
+  padding-left: 25;
+  margin-left: 20%;
+  margin-top: 16%;  
+  
+}
+#chat-box{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: teal;
+    padding:15px 25px;
+    border-radius: 10px;
+ position: relative;
+  
+}
+
+.footer{
+    text-align: center;
+    color: tomato;
+}
+.footer img{
+    width: 3%;
+    padding:5px;
+
+}
