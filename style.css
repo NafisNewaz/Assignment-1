@@ -7,8 +7,13 @@ section
     height: 500px;
     margin-bottom: 120px;
 }
+
+
 .green-color{
     color:  #1d523e;
+}
+h2{
+    color:  teal;
 }
 
 .half-segment{
@@ -50,10 +55,7 @@ section
    right:3.5%;
 
 }
-h2{
-    
-   color:black;
-}
+
 
 .experience-box{
     float: left;
